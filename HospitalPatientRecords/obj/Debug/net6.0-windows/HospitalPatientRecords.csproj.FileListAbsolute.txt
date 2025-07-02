@@ -1,0 +1,5 @@
+D:\project\HospitalPatientRecords\obj\Debug\net6.0-windows\HospitalPatientRecords.csproj.AssemblyReference.cache
+D:\project\HospitalPatientRecords\obj\Debug\net6.0-windows\HospitalPatientRecords.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\HospitalPatientRecords\obj\Debug\net6.0-windows\HospitalPatientRecords.AssemblyInfoInputs.cache
+D:\project\HospitalPatientRecords\obj\Debug\net6.0-windows\HospitalPatientRecords.AssemblyInfo.cs
+D:\project\HospitalPatientRecords\obj\Debug\net6.0-windows\HospitalPatientRecords.csproj.CoreCompileInputs.cache
